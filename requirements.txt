@@ -1,0 +1,10 @@
+streamlit
+numpy
+pandas
+plotly
+matplotlib
+wordcloud
+
+git add requirements.txt
+git commit -m "Add requirements.txt"
+git push
