@@ -12,7 +12,7 @@ st.sidebar.title("Sentiment Analysis of Tweets about Airline")
 
 st.markdown("This application is a streamlit dashboard to analysis data 🐦")
 st.sidebar.markdown("This application is a streamlit dashboard to analysis data 🐦")
-Data__URL = (r"C:\Users\sayed\OneDrive\Desktop\Atom\Tweets.csv")
+Data_URL = (r"C:\Users\sayed\OneDrive\Desktop\Atom\Tweets.csv")
 
 @st.cache_data(persist=True)
 def load_data():
